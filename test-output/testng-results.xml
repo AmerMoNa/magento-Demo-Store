@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-07T00:53:29 PDT" name="Default suite" finished-at="2025-07-07T00:53:46 PDT" duration-ms="16497">
+    <groups>
+    </groups>
+    <test started-at="2025-07-07T00:53:29 PDT" name="Default test" finished-at="2025-07-07T00:53:46 PDT" duration-ms="16497">
+      <class name="magento_Demo_Store.magento_Demo_Store.AppTest">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:magento_Demo_Store.magento_Demo_Store.AppTest@40b31a16]" started-at="2025-07-07T00:53:29 PDT" name="mySetup" finished-at="2025-07-07T00:53:34 PDT" duration-ms="4564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="productNavigation()[pri:5, instance:magento_Demo_Store.magento_Demo_Store.AppTest@40b31a16]" started-at="2025-07-07T00:53:34 PDT" name="productNavigation" finished-at="2025-07-07T00:53:46 PDT" duration-ms="11913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productNavigation -->
+      </class> <!-- magento_Demo_Store.magento_Demo_Store.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
